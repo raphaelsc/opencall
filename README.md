@@ -16,7 +16,7 @@ Let's say user A wants to communicate user B.
 That being said, the application from each user works both like a client and a server.
 
 ## By the way...
-If you are looking for an application with video call and file sharing features, sorry but you have to find it at somewhere else.
+If you are looking for an application with video call and/or file sharing features, sorry but you will have to find it at somewhere else.
 
 ## Credits
 Ricardo Biehl, Raphael S. Carvalho
